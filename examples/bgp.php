@@ -23,7 +23,7 @@ try {
     echo $e->getMessage();  
 } 
 
-
+sleep(10);
 
 $cache = array();
 
